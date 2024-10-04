@@ -18,9 +18,9 @@ I'm a **Software Engineering student** with a background in Chemistry and a pass
 ## Projects
 Here are some of my projects:
 
-- [**Relative Quantum Yield**](#): A Python program to calculate relative quantum yield based on absorption and emission data.
-- [**Derivative and Integral Plot**](#): A tool to calculate derivatives and integrals with a graphical interface.
-- [**Calculation Statistics**](#): A Python program that performs statistical calculations from user input.
+- [**Relative Quantum Yield**](https://github.com/jeessicats/Relative-Quantum-Yield): A Python program to calculate relative quantum yield based on absorption and emission data.
+- [**Derivative and Integral Plot**](https://github.com/jeessicats/Derivative_Integral_Plot): A tool to calculate derivatives and integrals with a graphical interface.
+- [**Calculation Statistics**](https://github.com/jeessicats/Calculation-Statistic): A Python program that performs statistical calculations from user input.
 
 Feel free to check out my [repositories](https://github.com/jeessicats?tab=repositories) for more!
 
